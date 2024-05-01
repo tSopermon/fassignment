@@ -1,3 +1,3 @@
 # fassignment
 
-Uploading the final assignment of the coursera data science course
+Uploading an assignment of the coursera data science course
